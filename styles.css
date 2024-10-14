@@ -1,0 +1,41 @@
+body {  margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: sans-serif;
+
+}
+
+.container {
+        background-color: rgb(255, 220, 246);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+
+
+}   
+
+.boxcontainer {
+
+        background-color: rgb(252, 192, 242);
+        height: 400px;
+        width: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 15px;
+
+
+}
+
+
+.uno {
+        background-color: rgb(255, 226, 255);
+        width: 200px;
+        height: 200px;
+        border-radius: 15px;
+
+
+
+
+}
